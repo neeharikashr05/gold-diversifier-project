@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project looks at whether gold behaved as an effective diversifier against US equities, particularly during periods of financial stress such as the Global Financial Crisis.
+Gold is usually discussed as a portfolio diversifier, especially during weaker market periods. However, its relationship with equities has shifted quite a bit over time.
+
+Using daily data from 2004 onwards, this project explores how gold behaved relative to the S&P 500 across different market environments, including the Global Financial Crisis.
 
 Using daily data from 2004 onwards, the analysis compares the behaviour of:
 - GLD as a proxy for gold
